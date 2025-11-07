@@ -1,0 +1,1 @@
+full contents of docs/PRD-UI-Hotfix-and-Refinement.md

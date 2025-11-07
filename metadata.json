@@ -1,0 +1,5 @@
+{
+  "name": "EduAI Builder",
+  "description": "An AI-powered application to assist in designing training programs based on instructional design principles. It guides users through analysis, design, and finalization steps to create a comprehensive lecture plan.",
+  "requestFramePermissions": []
+}
